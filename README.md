@@ -13,7 +13,7 @@ With a background in engineering and finance, I've worked on projects involving 
 
 ---
 
-### 🧰 Python and VBA Projects
+### Python and VBA Projects
 
 - **Statistics**
   - [Descriptive Statistics App using Python and VBA](https://github.com/jcnarvaez14/ProjectStats)
@@ -23,7 +23,7 @@ With a background in engineering and finance, I've worked on projects involving 
 
 ---
 
-### 👨‍💼 About Me
+### About Me
 
 - Solid foundation in **quantitative analysis** and **business strategy**
 - Experience in data analytics for **asset management** and **financial services**
@@ -33,7 +33,7 @@ Currently based in Paris and open to **collaborations** or **roles** in **data a
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 <a href="https://www.linkedin.com/in/jcnarvaez2/" target="_blank">
   <img alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />
